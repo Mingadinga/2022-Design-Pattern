@@ -4,3 +4,4 @@
 2023-01-16  Observer, Decorator<br>
 2023-01-17  Factory, Singleton<br>
 2023-02-09  Command, Adapter, Facade<br>
+2023-02-12  Template Method, Iterator<br>
