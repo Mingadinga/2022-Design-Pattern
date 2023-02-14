@@ -5,3 +5,4 @@
 2023-01-17  Factory, Singleton<br>
 2023-02-09  Command, Adapter, Facade<br>
 2023-02-12  Template Method, Iterator<br>
+2023-02-13  Composite, State, Strategy<br>
