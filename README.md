@@ -6,3 +6,4 @@
 2023-02-09  Command, Adapter, Facade<br>
 2023-02-12  Template Method, Iterator<br>
 2023-02-13  Composite, State, Strategy<br>
+2023-02-14  Proxy<br>
